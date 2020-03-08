@@ -1,0 +1,22 @@
+{
+  "name": "Vovka_Goodwin/TomskZhest",
+  "description": "description_text",
+  "minimum-stability": "alpha",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vladimir Radko",
+      "email": "volodya.radko@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "servicetech\\": "vendor/tomskzhest/core",
+      "app\\": "app"
+    }
+  },
+  "config": {
+    "disable-tls": true,
+    "secure-http": false
+  }
+}
