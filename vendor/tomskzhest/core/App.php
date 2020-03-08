@@ -5,7 +5,7 @@
  * Time: 13:53
  */
 
-namespace servicetech;
+namespace tomskzhest;
 
 
 class App

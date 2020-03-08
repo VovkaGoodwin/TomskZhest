@@ -5,7 +5,7 @@
  * Time: 14:02
  */
 
-namespace servicetech;
+namespace tomskzhest;
 
 
 trait TSingletone

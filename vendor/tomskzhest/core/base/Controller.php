@@ -5,10 +5,10 @@
  * Time: 12:13
  */
 
-namespace servicetech\base;
+namespace tomskzhest\base;
 
 
-use servicetech\Cache;
+use tomskzhest\Cache;
 
 abstract class Controller
 {

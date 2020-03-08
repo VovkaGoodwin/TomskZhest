@@ -5,10 +5,10 @@
  * Time: 18:05
  */
 
-namespace servicetech\base;
+namespace tomskzhest\base;
 
 
-use servicetech\Db;
+use tomskzhest\Db;
 
 abstract class Model
 {

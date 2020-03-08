@@ -5,7 +5,7 @@
  * Time: 10:55
  */
 
-namespace servicetech;
+namespace tomskzhest;
 
 class Router
 {

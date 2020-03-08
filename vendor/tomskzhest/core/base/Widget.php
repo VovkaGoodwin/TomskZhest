@@ -1,7 +1,7 @@
 <?php
 
 
-namespace servicetech\base;
+namespace tomskzhest\base;
 
 
 abstract class Widget

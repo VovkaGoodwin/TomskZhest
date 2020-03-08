@@ -5,7 +5,7 @@
  * Time: 10:31
  */
 
-namespace servicetech;
+namespace tomskzhest;
 
 
 use RedBeanPHP\R;

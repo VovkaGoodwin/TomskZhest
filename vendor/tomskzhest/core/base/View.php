@@ -5,7 +5,7 @@
  * Time: 12:34
  */
 
-namespace servicetech\base;
+namespace tomskzhest\base;
 
 
 class View

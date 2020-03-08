@@ -5,8 +5,8 @@
  * Time: 12:58
  */
 
-use servicetech\App;
-use servicetech\Cache;
+use tomskzhest\App;
+use tomskzhest\Cache;
 
 require_once dirname(__DIR__)."/config/init.php";
 require_once LIBS.'/functions.php';

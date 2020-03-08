@@ -8,7 +8,7 @@
 namespace app\models;
 
 
-use servicetech\base\Model;
+use tomskzhest\base\Model;
 
 class AppModel extends Model
 {

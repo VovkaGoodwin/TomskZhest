@@ -5,7 +5,7 @@
  * Time: 14:01
  */
 
-namespace servicetech;
+namespace tomskzhest;
 
 
 class Registry

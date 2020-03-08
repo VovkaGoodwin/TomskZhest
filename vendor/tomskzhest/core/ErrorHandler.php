@@ -5,7 +5,7 @@
  * Time: 21:43
  */
 
-namespace servicetech;
+namespace tomskzhest;
 
 
 class ErrorHandler

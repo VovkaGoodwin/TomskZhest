@@ -1,6 +1,6 @@
 <?php
 
-namespace servicetech;
+namespace tomskzhest;
 
 class Parser
 {

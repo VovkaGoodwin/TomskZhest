@@ -1,6 +1,6 @@
 <?php
 
-use servicetech\App;
+use tomskzhest\App;
 
 ?>
   <!doctype html>

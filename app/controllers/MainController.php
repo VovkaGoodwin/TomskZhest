@@ -7,12 +7,12 @@
 
 namespace app\controllers;
 
-use servicetech\Cache;
+use tomskzhest\Cache;
 
 class MainController extends AppController
 {
 
   public function indexAction(){
-    $this->setMeta('ServiceTech');
+    $this->setMeta('tomskzhest');
   }
 }
