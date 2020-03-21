@@ -34,8 +34,6 @@ class ErrorHandler
     if ($response == 404 && !DEBUG) {
         require_once WWW.'/errors/404.php';
         die;
-    } elseif ($response == 505) {
-      require_once WWW.'/errors/505.php';
     } elseif (DEBUG) {
       require_once WWW.'/errors/dev.php';
     } elseif (!DEBUG) {
